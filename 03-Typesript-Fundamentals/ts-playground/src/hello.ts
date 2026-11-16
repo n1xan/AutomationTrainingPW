@@ -1,3 +1,4 @@
+
 const name = 'Maria';
 const sessions = 36;
 
@@ -16,4 +17,5 @@ let isUrgent: boolean = true;
 
 
 console.log('Request $id ');
+
 
