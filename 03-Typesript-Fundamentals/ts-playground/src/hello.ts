@@ -12,7 +12,7 @@ let title: string = 'My Request';
 let category: 'Water system' | 'Traffic' | 'Streets'  = 'Water system';
 let priority: 1 | 2 | 3 | 4 | 5 = 4;
 let assignee: string | null = 'Nikolay';
-let isUrget: boolean = true;
+let isUrgent: boolean = true;
 
 
 console.log('Request $id ')
